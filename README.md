@@ -17,3 +17,4 @@ Demo at https://shearichard.github.io/react-pwa-demo-20221013/ .
  - https://www.sitepoint.com/pwa-css-considerations/
  - https://opensourcelibs.com/lib/pwa-asset-generator
  - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen
+ - https://blog.logrocket.com/building-pwa-react/#deploying-pwa
